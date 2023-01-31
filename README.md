@@ -8,9 +8,9 @@ In the near future this project will not have any changes. But I plan to make a 
 
 ---
 
-### 🚧 Maintener 
+Creator  
 **VINO ALZWARA** <br>
-📫 How to reach me: vinoalzwara@gmail.com
+Layanan : vinoalzwara@gmail.com
 
 
 [flutter]: https://img.shields.io/badge/Platform-Flutter-02569B?logo=flutter
