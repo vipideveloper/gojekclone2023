@@ -3,7 +3,7 @@
 > Gojek UI Clone With Flutter, is used flutter v.1
 In the near future this project will not have any changes. But I plan to make a clone of the latest version Tokopedia.
 ![GOJEK <3 Flutter](https://cdn-images-1.medium.com/max/1600/1*ykyQugsLdmh5DbOW5zA81w.gif)
-
+(https://miro.medium.com/max/800/1*EdVLWHqbs0KWktjq-IUOTw.png)
 
 
 ---
