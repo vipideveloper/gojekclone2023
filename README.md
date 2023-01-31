@@ -13,7 +13,7 @@ Creator
 Layanan : vinoalzwara@gmail.com
 
 
-[flutter]: https://img.shields.io/badge/Platform-Flutter-02569B?logo=flutter
+[flutter]: https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png
 [web flutter]: https://flutter.dev
 
 Copyrigth VIPI TEAM 2023
