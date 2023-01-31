@@ -16,4 +16,4 @@ In the near future this project will not have any changes. But I plan to make a 
 [flutter]: https://img.shields.io/badge/Platform-Flutter-02569B?logo=flutter
 [web flutter]: https://flutter.dev
 
-CopyRigth Vipi Team 2023
+Copyrigth VIPI TEAM 2023
